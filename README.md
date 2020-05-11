@@ -1,4 +1,4 @@
-# Neural Backdoor Papers
+# Papers about Neural Backdoor
 A list of papers of Neural Backdoor
 
 # Neural Trojan Attacks
@@ -30,7 +30,7 @@ A list of papers of Neural Backdoor
 
 * Backdoor Attacks on Neural Network Operations (GlobalSIP 2018) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8646335)]
 
-* Hardware trojan attacks on neural networks (2018) [[paper](https://arxiv.org/pdf/1806.05768.pdf)]
+
   
 ### Trojan Insertion via Transfer Learning
 
@@ -43,7 +43,7 @@ A list of papers of Neural Backdoor
 
 * Hu-fu: Hardware and software collaborative attack framework against neural networks (ISVLSI 2018) [[paper](https://arxiv.org/abs/1805.05098)]
 
-
+* Hardware trojan attacks on neural networks (2018) [[paper](https://arxiv.org/pdf/1806.05768.pdf)]
 
 ## Binary-Level Attacks
 
@@ -107,3 +107,6 @@ Neural Networks (IJCAI 2019) [[paper](https://www.ijcai.org/Proceedings/2019/064
 * Turning your weakness into a strength: Watermarking deep neural networks by backdooring (USENIX 2018) [[paper](https://arxiv.org/pdf/1802.04633.pdf)]
 
 * Watermarking deep neural networks for embedded systems (ICCAD 2018) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587745)]
+
+* Using Honeypots to Catch Adversarial Attacks on Neural
+Networks.[[paper](https://arxiv.org/pdf/1904.08554.pdf)]
